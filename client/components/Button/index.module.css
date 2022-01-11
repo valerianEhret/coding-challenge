@@ -1,0 +1,19 @@
+.button {
+  display: inline-flex;
+  justify-content: center;
+  border: 1px solid var(--indigo-700);
+  border-radius: var(--border-radius-1);
+  padding: var(--scale-3);
+  background-color: var(--indigo-700);
+  color: var(--indigo-50);
+  cursor: pointer;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: var(--indigo-800);
+}
+.button:active {
+  background-color: var(--indigo-800);
+}

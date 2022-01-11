@@ -1,0 +1,36 @@
+.wrapper {
+  position: relative;
+}
+
+.select-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.select-field label {
+  color: var(--gray-800);
+}
+
+.select {
+  appearance: none;
+  border: 1px solid var(--gray-500);
+  border-radius: var(--border-radius-1);
+  background-color: var(--gray-50);
+  padding: var(--scale-2) var(--scale-5) var(--scale-2) var(--scale-2);
+  width: 100%;
+}
+
+.caret-wrapper {
+  position: absolute;
+  padding: 0 var(--scale-2);
+  top: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+}
+
+.caret {
+  height: 1em;
+  width: 1em;
+}

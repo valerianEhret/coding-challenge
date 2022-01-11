@@ -1,0 +1,31 @@
+.stack > * {
+  --margin-top: var(--scale-1);
+}
+.stack-1 > * {
+  --margin-top: var(--scale-1);
+}
+.stack-2 > * {
+  --margin-top: var(--scale-2);
+}
+.stack-3 > * {
+  --margin-top: var(--scale-3);
+}
+.stack-4 > * {
+  --margin-top: var(--scale-4);
+}
+.stack-5 > * {
+  --margin-top: var(--scale-5);
+}
+.stack-6 > * {
+  --margin-top: var(--scale-6);
+}
+.stack-7 > * {
+  --margin-top: var(--scale-7);
+}
+.stack-8 > * {
+  --margin-top: var(--scale-8);
+}
+
+.stack > * + * {
+  margin-top: var(--margin-top);
+}

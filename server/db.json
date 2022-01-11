@@ -1,0 +1,502 @@
+{
+  "products": [
+    {
+      "id": "MGG73GG",
+      "defaultSelectedProductOptions": {
+        "format": "F020",
+        "paper": "P01",
+        "refinement": "V00",
+        "quantity": 10
+      },
+      "variants": [
+        {
+          "format": "F020",
+          "formatLabel": "Postkarte flach",
+          "dimension": "148 x 105mm",
+          "image": "https://assets.kartenmacherei.de/produktbilder/MGG73GG-LargePortraitGreyDetailImage/Geburtskarte-Pure-Happiness-weiss-0200100001de_DE.jpg",
+          "productOptions": {
+            "papers": [
+              {
+                "key": "P01",
+                "description": "Unser Standardpapier ist ein wei\u00dfes Feinstpapier mit 300 g/qm und besticht durch eine samtig, matte Optik, eine hohe Steifigkeit sowie eine geringe Anf\u00e4lligkeit f\u00fcr Kratzer.",
+                "price": 0,
+                "label": "mattes Feinstpapier (wei\u00df)",
+                "isRefinable": true
+              },
+              {
+                "key": "P14",
+                "description": "Neu in Wei\u00df: Dieses hochwertige 250 g/qm Papier mit dezenter Struktur und nat\u00fcrlicher, softer Haptik ist ein ganz besonderes Erlebnis, wenn man die Karte in der Hand h\u00e4lt.",
+                "price": 35,
+                "label": "strukturiertes Papier (wei\u00df)",
+                "isRefinable": false
+              },
+              {
+                "key": "P08",
+                "description": "Unser seidenmattes Fotopapier mit 290 g/qm l\u00e4sst Ihre Fotos noch brillianter erscheinen. Dieses Papier erhalten Sie exklusiv nur bei der kartenmacherei.",
+                "price": 40,
+                "label": "seidenmattes Fotopapier (wei\u00df)",
+                "isRefinable": true
+              }
+            ],
+            "refinements": [
+              {
+                "key": "V00",
+                "description": "",
+                "price": 0,
+                "label": "keine Veredelung"
+              },
+              {
+                "key": "V02",
+                "description": "Unsere Goldfolie verleiht Ihrer Karte einen besonders edlen Effekt und macht sie zu einem glanzvollen Unikat.",
+                "price": 50,
+                "label": "Goldfolie"
+              }
+            ]
+          },
+          "prices": [
+            {
+              "price": 250,
+              "quantity": 5,
+              "label": "5"
+            },
+            {
+              "price": 200,
+              "quantity": 10,
+              "label": "10"
+            },
+            {
+              "price": 188,
+              "quantity": 15,
+              "label": "15"
+            },
+            {
+              "price": 172,
+              "quantity": 20,
+              "label": "20"
+            },
+            {
+              "price": 164,
+              "quantity": 25,
+              "label": "25"
+            },
+            {
+              "price": 152,
+              "quantity": 30,
+              "label": "30"
+            },
+            {
+              "price": 148,
+              "quantity": 35,
+              "label": "35"
+            },
+            {
+              "price": 140,
+              "quantity": 40,
+              "label": "40"
+            },
+            {
+              "price": 136,
+              "quantity": 45,
+              "label": "45"
+            },
+            {
+              "price": 128,
+              "quantity": 50,
+              "label": "50"
+            },
+            {
+              "price": 124,
+              "quantity": 55,
+              "label": "55"
+            },
+            {
+              "price": 120,
+              "quantity": 60,
+              "label": "60"
+            },
+            {
+              "price": 116,
+              "quantity": 65,
+              "label": "65"
+            },
+            {
+              "price": 110,
+              "quantity": 70,
+              "label": "70"
+            },
+            {
+              "price": 107,
+              "quantity": 75,
+              "label": "75"
+            },
+            {
+              "price": 104,
+              "quantity": 80,
+              "label": "80"
+            },
+            {
+              "price": 102,
+              "quantity": 85,
+              "label": "85"
+            },
+            {
+              "price": 100,
+              "quantity": 90,
+              "label": "90"
+            },
+            {
+              "price": 98,
+              "quantity": 95,
+              "label": "95"
+            },
+            {
+              "price": 96,
+              "quantity": 100,
+              "label": "100"
+            },
+            {
+              "price": 94,
+              "quantity": 110,
+              "label": "110"
+            },
+            {
+              "price": 93,
+              "quantity": 120,
+              "label": "120"
+            },
+            {
+              "price": 92,
+              "quantity": 125,
+              "label": "125"
+            },
+            {
+              "price": 91,
+              "quantity": 130,
+              "label": "130"
+            },
+            {
+              "price": 90,
+              "quantity": 140,
+              "label": "140"
+            },
+            {
+              "price": 88,
+              "quantity": 150,
+              "label": "150"
+            },
+            {
+              "price": 86,
+              "quantity": 160,
+              "label": "160"
+            },
+            {
+              "price": 85,
+              "quantity": 170,
+              "label": "170"
+            },
+            {
+              "price": 84,
+              "quantity": 175,
+              "label": "175"
+            },
+            {
+              "price": 83,
+              "quantity": 180,
+              "label": "180"
+            },
+            {
+              "price": 82,
+              "quantity": 190,
+              "label": "190"
+            },
+            {
+              "price": 80,
+              "quantity": 200,
+              "label": "200"
+            },
+            {
+              "price": 79,
+              "quantity": 225,
+              "label": "225"
+            },
+            {
+              "price": 78,
+              "quantity": 250,
+              "label": "250"
+            },
+            {
+              "price": 76,
+              "quantity": 300,
+              "label": "300"
+            },
+            {
+              "price": 74,
+              "quantity": 350,
+              "label": "350"
+            },
+            {
+              "price": 72,
+              "quantity": 400,
+              "label": "400"
+            },
+            {
+              "price": 70,
+              "quantity": 450,
+              "label": "450"
+            },
+            {
+              "price": 68,
+              "quantity": 500,
+              "label": "500"
+            }
+          ]
+        },
+        {
+          "format": "F030",
+          "formatLabel": "Quadratische Postkarte",
+          "dimension": "145 x 145mm",
+          "image": "https://assets.kartenmacherei.de/produktbilder/MGG73GG-LargePortraitGreyDetailImage/Geburtskarte-Pure-Happiness-weiss-1410100001de_DE.jpg?t=1612859308796",
+          "productOptions": {
+            "papers": [
+              {
+                "key": "P01",
+                "description": "Unser Standardpapier ist ein wei\u00dfes Feinstpapier mit 300 g/qm und besticht durch eine samtig, matte Optik, eine hohe Steifigkeit sowie eine geringe Anf\u00e4lligkeit f\u00fcr Kratzer.",
+                "price": 0,
+                "label": "mattes Feinstpapier (wei\u00df)",
+                "isRefinable": true
+              },
+              {
+                "key": "P14",
+                "description": "Neu in Wei\u00df: Dieses hochwertige 250 g/qm Papier mit dezenter Struktur und nat\u00fcrlicher, softer Haptik ist ein ganz besonderes Erlebnis, wenn man die Karte in der Hand h\u00e4lt.",
+                "price": 35,
+                "label": "strukturiertes Papier (wei\u00df)",
+                "isRefinable": false
+              },
+              {
+                "key": "P08",
+                "description": "Unser seidenmattes Fotopapier mit 290 g/qm l\u00e4sst Ihre Fotos noch brillianter erscheinen. Dieses Papier erhalten Sie exklusiv nur bei der kartenmacherei.",
+                "price": 40,
+                "label": "seidenmattes Fotopapier (wei\u00df)",
+                "isRefinable": true
+              }
+            ],
+            "refinements": [
+              {
+                "key": "V00",
+                "description": "",
+                "price": 0,
+                "label": "keine Veredelung"
+              },
+              {
+                "key": "V02",
+                "description": "Unsere Goldfolie verleiht Ihrer Karte einen besonders edlen Effekt und macht sie zu einem glanzvollen Unikat.",
+                "price": 50,
+                "label": "Goldfolie"
+              }
+            ]
+          },
+          "prices": [
+            {
+              "price": 338,
+              "quantity": 5,
+              "label": "5"
+            },
+            {
+              "price": 270,
+              "quantity": 10,
+              "label": "10"
+            },
+            {
+              "price": 254,
+              "quantity": 15,
+              "label": "15"
+            },
+            {
+              "price": 232,
+              "quantity": 20,
+              "label": "20"
+            },
+            {
+              "price": 221,
+              "quantity": 25,
+              "label": "25"
+            },
+            {
+              "price": 205,
+              "quantity": 30,
+              "label": "30"
+            },
+            {
+              "price": 200,
+              "quantity": 35,
+              "label": "35"
+            },
+            {
+              "price": 189,
+              "quantity": 40,
+              "label": "40"
+            },
+            {
+              "price": 184,
+              "quantity": 45,
+              "label": "45"
+            },
+            {
+              "price": 173,
+              "quantity": 50,
+              "label": "50"
+            },
+            {
+              "price": 167,
+              "quantity": 55,
+              "label": "55"
+            },
+            {
+              "price": 162,
+              "quantity": 60,
+              "label": "60"
+            },
+            {
+              "price": 157,
+              "quantity": 65,
+              "label": "65"
+            },
+            {
+              "price": 149,
+              "quantity": 70,
+              "label": "70"
+            },
+            {
+              "price": 144,
+              "quantity": 75,
+              "label": "75"
+            },
+            {
+              "price": 140,
+              "quantity": 80,
+              "label": "80"
+            },
+            {
+              "price": 138,
+              "quantity": 85,
+              "label": "85"
+            },
+            {
+              "price": 135,
+              "quantity": 90,
+              "label": "90"
+            },
+            {
+              "price": 132,
+              "quantity": 95,
+              "label": "95"
+            },
+            {
+              "price": 130,
+              "quantity": 100,
+              "label": "100"
+            },
+            {
+              "price": 127,
+              "quantity": 110,
+              "label": "110"
+            },
+            {
+              "price": 126,
+              "quantity": 120,
+              "label": "120"
+            },
+            {
+              "price": 124,
+              "quantity": 125,
+              "label": "125"
+            },
+            {
+              "price": 123,
+              "quantity": 130,
+              "label": "130"
+            },
+            {
+              "price": 122,
+              "quantity": 140,
+              "label": "140"
+            },
+            {
+              "price": 119,
+              "quantity": 150,
+              "label": "150"
+            },
+            {
+              "price": 116,
+              "quantity": 160,
+              "label": "160"
+            },
+            {
+              "price": 115,
+              "quantity": 170,
+              "label": "170"
+            },
+            {
+              "price": 113,
+              "quantity": 175,
+              "label": "175"
+            },
+            {
+              "price": 112,
+              "quantity": 180,
+              "label": "180"
+            },
+            {
+              "price": 111,
+              "quantity": 190,
+              "label": "190"
+            },
+            {
+              "price": 108,
+              "quantity": 200,
+              "label": "200"
+            },
+            {
+              "price": 107,
+              "quantity": 225,
+              "label": "225"
+            },
+            {
+              "price": 105,
+              "quantity": 250,
+              "label": "250"
+            },
+            {
+              "price": 103,
+              "quantity": 300,
+              "label": "300"
+            },
+            {
+              "price": 100,
+              "quantity": 350,
+              "label": "350"
+            },
+            {
+              "price": 97,
+              "quantity": 400,
+              "label": "400"
+            },
+            {
+              "price": 95,
+              "quantity": 450,
+              "label": "450"
+            },
+            {
+              "price": 92,
+              "quantity": 500,
+              "label": "500"
+            }
+          ]
+        }
+      ],
+      "name": "Pure Happiness",
+      "description": "\"Pure Happiness\" bietet viel Platz f\u00fcr die sch\u00f6nten Fotos Ihres Schatzes. Verbreiten Sie pure Freude an Ihre Liebsten.",
+      "groupName": "Geburtskarte"
+    }
+  ]
+}
